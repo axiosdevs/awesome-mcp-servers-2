@@ -334,6 +334,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 <br />
 
 ## 💹 <a name="finance"></a>Finance
+- [axiosdevs/agentpump-mcp](https://github.com/axiosdevs/agentpump-mcp) - Give your AI agent a Solana wallet to launch & trade tokens on AgentPump, a pump.fun-style bonding-curve launchpad on Solana mainnet (1% fee, auto-graduates to Raydium). `npx -y agentpump-mcp`
 
 > Financial data and cryptocurrency information services.
 
